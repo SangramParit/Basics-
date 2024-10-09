@@ -1,4 +1,5 @@
 # Basics-
 This is for learn basics of git and github.
 <br>
-Author :- Sangram Parit.
+Author :- Sangram Parit(Data Science).git 
+
